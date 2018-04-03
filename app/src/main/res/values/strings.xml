@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroCompile</string>
+    <string name="language">language</string>
+    <string name="langauge_promate">Select Compiler</string>
+
+    <string-array name="compiler_arrays">
+        <item>C</item>
+        <item>C++</item>
+        <item>JAVA</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
